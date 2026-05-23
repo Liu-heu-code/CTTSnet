@@ -38,3 +38,5 @@ Paths to be set include:
 Full paths to the six Excel files
 
 Full path to the image root directory
+
+Pre‑trained weights for backbone models used in this study should be downloaded from official open‑source channels.
